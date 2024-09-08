@@ -221,7 +221,7 @@ if __name__ == "__main__":
 </code>
 
 <h3>OUTPUT:</h3>
-![WhatsApp Image 2024-02-20 at 22 19 39_181f12bb](https://github.com/Nandhakumar1313/19AI405ExpNo1/assets/120230694/0e780de5-71dd-4d61-a02a-a709d59c2851)
+![ai op](https://github.com/user-attachments/assets/95db3a35-8c99-4c80-807c-7203527e866a)
 
 <h3>RESULT:</h3>
 <p>Thus the PEAS description for the given AI problem and develop an AI agent was done successfully.</p>
